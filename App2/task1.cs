@@ -2,7 +2,7 @@
 
 namespace App2
 {
-    class Program
+    class task1
     {
         static void Main(string[] args)
         {
